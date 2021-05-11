@@ -1,11 +1,15 @@
-#identite{
+#tab1,#tab1 legend{
     background: #2574A9;
 }
 
-#livraison{
+#tab2,#tab2 legend{
     background: #9A12B3;
 }
 
-#paiement{
+#tab3,#tab3 legend{
     background: #DB0A5B;
+}
+
+#tab3 ol li ul li{
+    list-style: none;
 }
